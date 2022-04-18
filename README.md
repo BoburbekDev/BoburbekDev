@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:
-<a href="https://t.me/Sobirjonov_B">BoburBek</a>
+<a href="https://t.me/B_Sobirjonov">BoburBek</a>
 </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
