@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BoburBek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-<img mrc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fnodejs&psig=AOvVaw0ysKthMAZaTFdgAom_M88y&ust=1650364327417000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjIna-0nfcCFQAAAAAdAAAAABAJ">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechbullion.com%2F5-questions-to-ask-before-choosing-a-node-js-developer%2F&psig=AOvVaw0ysKthMAZaTFdgAom_M88y&ust=1650364327417000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjIna-0nfcCFQAAAAAdAAAAABAP" align="center">
 
 
 - 🌱 I’m currently learning **Nestjs**
