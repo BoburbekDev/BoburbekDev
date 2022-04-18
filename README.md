@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm BoburBek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1607934639192-V2MZCJNNFI6R4XBX1KR8/node.JS+development.gif?format=500w" align="center" alt="Coding" width="400">
