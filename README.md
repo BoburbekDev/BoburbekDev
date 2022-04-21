@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BoburBek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently imporoving **TypeScript**
 
 - 💬 Ask me about **Nodejs**
 
