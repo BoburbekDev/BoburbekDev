@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BoburBek</h1>
+<h1 align="center">Hi 👋, I'm Boburjon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently imporoving **TypeScript**
@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:
-<a href="https://t.me/B_Sobirjonov">BoburBek</a>
+<a href="https://t.me/B_Sobirjonov">**Boburjon**</a>
 </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
